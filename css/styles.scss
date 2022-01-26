@@ -1,0 +1,8 @@
+:root {
+    blacktext : #000;
+    bluenavbar: #4287f5
+
+};
+body { margin:0px; padding:0px; color: var(--blacktext); font-family:Arial;}
+.nav-bg { background-color: var(--bluenavbar); }
+.proj-headers {text-align:center;}
